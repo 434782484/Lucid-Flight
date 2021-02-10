@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 40c0533166e281442bc77685760e6962
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5753983573630032180
+    second: Level1_Back_New_0
+  - first:
+      213: 383040446182955937
+    second: Level1_Back_New_1
+  - first:
+      213: 1377678595756986067
+    second: Level1_Back_New_2
+  - first:
+      213: 4283382437470818705
+    second: Level1_Back_New_3
+  - first:
+      213: -5075860036551431760
+    second: Level1_Back_New_4
+  - first:
+      213: 645936941894059421
+    second: Level1_Back_New_5
+  - first:
+      213: 4924569825835015212
+    second: Level1_Back_New_6
+  - first:
+      213: 768089589834474012
+    second: Level1_Back_New_7
+  - first:
+      213: 2821877765213955356
+    second: Level1_Back_New_8
+  - first:
+      213: -3427017842714397015
+    second: Level1_Back_New_9
+  - first:
+      213: -7071537097776128954
+    second: Level1_Back_New_10
+  - first:
+      213: 8946041386871488794
+    second: Level1_Back_New_11
+  - first:
+      213: 9186315208531069882
+    second: Level1_Back_New_12
+  - first:
+      213: -7628462717520173608
+    second: Level1_Back_New_13
+  - first:
+      213: 1639897269323395282
+    second: Level1_Back_New_14
+  - first:
+      213: -8114576862877406870
+    second: Level1_Back_New_15
+  - first:
+      213: 5285846821886187208
+    second: Level1_Back_New_16
+  - first:
+      213: -870859158935492755
+    second: Level1_Back_New_17
+  - first:
+      213: -3351820669990664303
+    second: Level1_Back_New_18
+  - first:
+      213: -5896728295488331909
+    second: Level1_Back_New_19
+  - first:
+      213: 777284220426270970
+    second: Level1_Back_New_20
+  - first:
+      213: -7207999723064112683
+    second: Level1_Back_New_21
+  - first:
+      213: 1384569556077504475
+    second: Level1_Back_New_22
+  - first:
+      213: -2160876499819908104
+    second: Level1_Back_New_23
+  - first:
+      213: 2752377433175862377
+    second: Level1_Back_New_24
+  - first:
+      213: 6879339912571572346
+    second: Level1_Back_New_25
+  - first:
+      213: -3641048091129686902
+    second: Level1_Back_New_26
+  - first:
+      213: -4576036461997339088
+    second: Level1_Back_New_27
+  - first:
+      213: 8935881838517377816
+    second: Level1_Back_New_28
+  - first:
+      213: -592803560106407774
+    second: Level1_Back_New_29
+  - first:
+      213: 3182805868653603560
+    second: Level1_Back_New_30
+  - first:
+      213: -1068922128187831438
+    second: Level1_Back_New_31
+  - first:
+      213: 3486545435733990620
+    second: Level1_Back_New_32
+  - first:
+      213: -8762815965893589661
+    second: Level1_Back_New_33
+  - first:
+      213: -5166308579792882756
+    second: Level1_Back_New_34
+  - first:
+      213: -5949010058609247107
+    second: Level1_Back_New_35
+  - first:
+      213: -9001705565043066667
+    second: Level1_Back_New_36
+  - first:
+      213: -4147504921642132650
+    second: Level1_Back_New_37
+  - first:
+      213: 2861938943145317461
+    second: Level1_Back_New_38
+  - first:
+      213: 5095284032392210813
+    second: Level1_Back_New_39
+  - first:
+      213: -1924959075180318208
+    second: Level1_Back_New_40
+  - first:
+      213: -4676275923086750046
+    second: Level1_Back_New_41
+  - first:
+      213: 4481144377256457621
+    second: Level1_Back_New_42
+  - first:
+      213: -4325558539324022354
+    second: Level1_Back_New_43
+  - first:
+      213: 7221602313935991459
+    second: Level1_Back_New_44
+  - first:
+      213: 8994924128294164278
+    second: Level1_Back_New_45
+  - first:
+      213: 3443345761604359143
+    second: Level1_Back_New_46
+  - first:
+      213: 1854100720475481110
+    second: Level1_Back_New_47
+  - first:
+      213: 4200273851053176725
+    second: Level1_Back_New_48
+  - first:
+      213: 8013542141666321694
+    second: Level1_Back_New_49
+  - first:
+      213: -4501731375645193679
+    second: Level1_Back_New_50
+  - first:
+      213: 2495782378966859979
+    second: Level1_Back_New_51
+  - first:
+      213: -7702923504097642802
+    second: Level1_Back_New_52
+  - first:
+      213: -8013584027923176536
+    second: Level1_Back_New_53
+  - first:
+      213: -1502024870108823769
+    second: Level1_Back_New_54
+  - first:
+      213: 6084531461692080604
+    second: Level1_Back_New_55
+  - first:
+      213: 5098518964033799869
+    second: Level1_Back_New_56
+  - first:
+      213: 6412322361195215933
+    second: Level1_Back_New_57
+  - first:
+      213: -8066072357662156280
+    second: Level1_Back_New_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level1_Back_New_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 573
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6695afc6eb520b0800000000000000
+      internalID: -5753983573630032180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Back_New_1
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 353
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab9751a145d05500800000000000000
+      internalID: 383040446182955937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Back_New_2
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 0
+        width: 311
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de01c2326f7e1310800000000000000
+      internalID: 1377678595756986067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level1_Back_New_3
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 522
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191589ee1a1a17b30800000000000000
+      internalID: 4283382437470818705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

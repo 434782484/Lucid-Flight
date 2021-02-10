@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: e5bacb49ed4a5aa4b962029b7026efb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2708374559820510193
+    second: Env_BackgroundTrees_Mid_L2_0
+  - first:
+      213: -3984798672944801837
+    second: Env_BackgroundTrees_Mid_L2_1
+  - first:
+      213: 2085750911755841887
+    second: Env_BackgroundTrees_Mid_L2_2
+  - first:
+      213: 4292755442584215062
+    second: Env_BackgroundTrees_Mid_L2_3
+  - first:
+      213: -4432883802903860366
+    second: Env_BackgroundTrees_Mid_L2_4
+  - first:
+      213: 8816178010046361113
+    second: Env_BackgroundTrees_Mid_L2_5
+  - first:
+      213: 1399832662604457578
+    second: Env_BackgroundTrees_Mid_L2_6
+  - first:
+      213: -9143384648151957935
+    second: Env_BackgroundTrees_Mid_L2_7
+  - first:
+      213: 2893398651271046662
+    second: Env_BackgroundTrees_Mid_L2_8
+  - first:
+      213: 1687577453477034668
+    second: Env_BackgroundTrees_Mid_L2_9
+  - first:
+      213: 341405842187049812
+    second: Env_BackgroundTrees_Mid_L2_10
+  - first:
+      213: -3524155435241348727
+    second: Env_BackgroundTrees_Mid_L2_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 543
+        width: 71
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f37ec40054169520800000000000000
+      internalID: 2708374559820510193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 543
+        width: 96
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d75da528b623b8c0800000000000000
+      internalID: -3984798672944801837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_2
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 543
+        width: 41
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f517729476312fc10800000000000000
+      internalID: 2085750911755841887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 543
+        width: 125
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e5bdeb45ee29b30800000000000000
+      internalID: 4292755442584215062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 284
+        width: 182
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b255deaab3b72c0800000000000000
+      internalID: -4432883802903860366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 284
+        width: 100
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e6c65a03b595a70800000000000000
+      internalID: 8816178010046361113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 284
+        width: 66
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a662787d3643d6310800000000000000
+      internalID: 1399832662604457578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_7
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 284
+        width: 66
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e74223b1c2c1180800000000000000
+      internalID: -9143384648151957935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 32
+        width: 42
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606ea925eba672820800000000000000
+      internalID: 2893398651271046662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_9
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 32
+        width: 164
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaf475b0ca7b6710800000000000000
+      internalID: 1687577453477034668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_10
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 32
+        width: 209
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b5dcbfdcaecb400800000000000000
+      internalID: 341405842187049812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Env_BackgroundTrees_Mid_L2_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 32
+        width: 166
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9816d2dad4fa71fc0800000000000000
+      internalID: -3524155435241348727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

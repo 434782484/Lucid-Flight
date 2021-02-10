@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 67be6da253d5dc74b88e680189ac913a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 882118954775838919
+    second: PowerupElements_0
+  - first:
+      213: 5047278333278675037
+    second: PowerupElements_1
+  - first:
+      213: 6469493806009744094
+    second: PowerupElements_2
+  - first:
+      213: -8793737091082312625
+    second: PowerupElements_3
+  - first:
+      213: -4894901402844460959
+    second: PowerupElements_4
+  - first:
+      213: 5212858851813120185
+    second: PowerupElements_5
+  - first:
+      213: -5829194707605820567
+    second: PowerupElements_6
+  - first:
+      213: 8804940814310326405
+    second: PowerupElements_7
+  - first:
+      213: -5574592457609591644
+    second: PowerupElements_8
+  - first:
+      213: -3173500479794167691
+    second: PowerupElements_9
+  - first:
+      213: -6002112849389965763
+    second: PowerupElements_10
+  - first:
+      213: -2190676748666501103
+    second: PowerupElements_11
+  - first:
+      213: 6341164028519126729
+    second: PowerupElements_12
+  - first:
+      213: 5096478120411300605
+    second: PowerupElements_13
+  - first:
+      213: -3172821664693082381
+    second: PowerupElements_14
+  - first:
+      213: 6320526049024197739
+    second: PowerupElements_15
+  - first:
+      213: -7331545340288393839
+    second: PowerupElements_16
+  - first:
+      213: 4441177909273338416
+    second: PowerupElements_17
+  - first:
+      213: -1027061764348920600
+    second: PowerupElements_18
+  - first:
+      213: -2238420824745876960
+    second: PowerupElements_19
+  - first:
+      213: 7326750817184313151
+    second: PowerupElements_20
+  - first:
+      213: 505482482415564883
+    second: PowerupElements_21
+  - first:
+      213: -3982366278505443711
+    second: PowerupElements_22
+  - first:
+      213: 2717450401772028698
+    second: PowerupElements_23
+  - first:
+      213: -2303160314442887692
+    second: PowerupElements_24
+  - first:
+      213: 7044703250522721395
+    second: PowerupElements_25
+  - first:
+      213: -5259841274953709726
+    second: PowerupElements_26
+  - first:
+      213: 7276271166190648959
+    second: PowerupElements_27
+  - first:
+      213: 8641372270449980697
+    second: PowerupElements_28
+  - first:
+      213: -8623408969193041734
+    second: PowerupElements_29
+  - first:
+      213: 4784020068771512098
+    second: PowerupElements_30
+  - first:
+      213: -3782413656698211239
+    second: PowerupElements_31
+  - first:
+      213: -7928229703071699132
+    second: PowerupElements_32
+  - first:
+      213: 5722882922006901545
+    second: PowerupElements_33
+  - first:
+      213: -8217334376159829732
+    second: PowerupElements_34
+  - first:
+      213: 7628071277833577544
+    second: PowerupElements_35
+  - first:
+      213: 585079000933595178
+    second: PowerupElements_36
+  - first:
+      213: 4192452103549782125
+    second: PowerupElements_37
+  - first:
+      213: -8140952584331874140
+    second: PowerupElements_38
+  - first:
+      213: -4159131603505301255
+    second: PowerupElements_39
+  - first:
+      213: -6442164563214041502
+    second: PowerupElements_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PowerupElements_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 206
+        width: 519
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08d05048aed3c00800000000000000
+      internalID: 882118954775838919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerupElements_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 23
+        width: 120
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50e99907e88b0640800000000000000
+      internalID: 5047278333278675037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerupElements_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 40
+        width: 120
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edafcc7f65248c950800000000000000
+      internalID: 6469493806009744094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerupElements_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 26
+        width: 120
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44acd5f4be56f580800000000000000
+      internalID: -8793737091082312625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
